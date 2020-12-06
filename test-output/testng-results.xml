@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="113410" started-at="2020-12-06T21:28:43 IST" finished-at="2020-12-06T21:30:36 IST">
+    <groups>
+    </groups>
+    <test name="egaintest" duration-ms="113410" started-at="2020-12-06T21:28:43 IST" finished-at="2020-12-06T21:30:36 IST">
+      <class name="egain.tests.SurveyTests">
+        <test-method status="PASS" signature="open()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="open" is-config="true" duration-ms="8860" started-at="2020-12-06T21:28:44 IST" finished-at="2020-12-06T21:28:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="sampleTestCaseForEgain(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="sampleTestCaseForEgain" duration-ms="1654" started-at="2020-12-06T21:28:53 IST" data-provider="testdata" finished-at="2020-12-06T21:28:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Active]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[eGain Survey 1 ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://www.egain.com/]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[User1@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Case Closure]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Activity Closure]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[UserGroup1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTestCaseForEgain -->
+        <test-method status="PASS" signature="close()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="close" is-config="true" duration-ms="746" started-at="2020-12-06T21:28:54 IST" finished-at="2020-12-06T21:28:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="open" is-config="true" duration-ms="7875" started-at="2020-12-06T21:28:55 IST" finished-at="2020-12-06T21:29:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="sampleTestCaseForEgain(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="sampleTestCaseForEgain" duration-ms="1608" started-at="2020-12-06T21:29:03 IST" data-provider="testdata" finished-at="2020-12-06T21:29:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Active]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[eGain Survey 2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://www.egain.com/]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[User2@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Case Closure]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Activity Closure]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[UserGroup2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTestCaseForEgain -->
+        <test-method status="PASS" signature="close()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="close" is-config="true" duration-ms="768" started-at="2020-12-06T21:29:05 IST" finished-at="2020-12-06T21:29:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="open" is-config="true" duration-ms="8174" started-at="2020-12-06T21:29:05 IST" finished-at="2020-12-06T21:29:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="sampleTestCaseForEgain(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="sampleTestCaseForEgain" duration-ms="1394" started-at="2020-12-06T21:29:14 IST" data-provider="testdata" finished-at="2020-12-06T21:29:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Active]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[eGain Survey 3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://www.egain.com/]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[User3@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Case Closure]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Activity Closure]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[UserGroup3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTestCaseForEgain -->
+        <test-method status="PASS" signature="close()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="close" is-config="true" duration-ms="703" started-at="2020-12-06T21:29:15 IST" finished-at="2020-12-06T21:29:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="open" is-config="true" duration-ms="9085" started-at="2020-12-06T21:29:16 IST" finished-at="2020-12-06T21:29:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="sampleTestCaseForEgain(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="sampleTestCaseForEgain" duration-ms="1594" started-at="2020-12-06T21:29:25 IST" data-provider="testdata" finished-at="2020-12-06T21:29:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Active]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[eGain Survey 4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://www.egain.com/]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[User4@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Case Closure]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Activity Closure]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[UserGroup4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTestCaseForEgain -->
+        <test-method status="PASS" signature="close()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="close" is-config="true" duration-ms="2334" started-at="2020-12-06T21:29:26 IST" finished-at="2020-12-06T21:29:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="open" is-config="true" duration-ms="7394" started-at="2020-12-06T21:29:29 IST" finished-at="2020-12-06T21:29:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="sampleTestCaseForEgain(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="sampleTestCaseForEgain" duration-ms="1347" started-at="2020-12-06T21:29:36 IST" data-provider="testdata" finished-at="2020-12-06T21:29:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Active]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[eGain Survey 5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://www.egain.com/]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[User5@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Case Closure]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Activity Closure]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[UserGroup1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTestCaseForEgain -->
+        <test-method status="PASS" signature="close()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="close" is-config="true" duration-ms="1795" started-at="2020-12-06T21:29:37 IST" finished-at="2020-12-06T21:29:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="open" is-config="true" duration-ms="13657" started-at="2020-12-06T21:29:39 IST" finished-at="2020-12-06T21:29:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="sampleTestCaseForEgain(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="sampleTestCaseForEgain" duration-ms="1413" started-at="2020-12-06T21:29:53 IST" data-provider="testdata" finished-at="2020-12-06T21:29:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Active]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[eGain Survey 6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://www.egain.com/]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[User6@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Case Closure]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Activity Closure]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[UserGroup2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTestCaseForEgain -->
+        <test-method status="PASS" signature="close()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="close" is-config="true" duration-ms="740" started-at="2020-12-06T21:29:54 IST" finished-at="2020-12-06T21:29:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="open" is-config="true" duration-ms="7076" started-at="2020-12-06T21:29:55 IST" finished-at="2020-12-06T21:30:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="sampleTestCaseForEgain(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="sampleTestCaseForEgain" duration-ms="1579" started-at="2020-12-06T21:30:02 IST" data-provider="testdata" finished-at="2020-12-06T21:30:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Active]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[eGain Survey 7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://www.egain.com/]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[User7@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Case Closure]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Activity Closure]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[UserGroup3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTestCaseForEgain -->
+        <test-method status="PASS" signature="close()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="close" is-config="true" duration-ms="1261" started-at="2020-12-06T21:30:04 IST" finished-at="2020-12-06T21:30:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="open" is-config="true" duration-ms="7423" started-at="2020-12-06T21:30:05 IST" finished-at="2020-12-06T21:30:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="sampleTestCaseForEgain(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="sampleTestCaseForEgain" duration-ms="1732" started-at="2020-12-06T21:30:12 IST" data-provider="testdata" finished-at="2020-12-06T21:30:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Active]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[eGain Survey 8]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://www.egain.com/]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[User8@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Case Closure]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Activity Closure]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[UserGroup4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTestCaseForEgain -->
+        <test-method status="PASS" signature="close()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="close" is-config="true" duration-ms="718" started-at="2020-12-06T21:30:14 IST" finished-at="2020-12-06T21:30:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="open" is-config="true" duration-ms="8854" started-at="2020-12-06T21:30:15 IST" finished-at="2020-12-06T21:30:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="sampleTestCaseForEgain(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="sampleTestCaseForEgain" duration-ms="1812" started-at="2020-12-06T21:30:24 IST" data-provider="testdata" finished-at="2020-12-06T21:30:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Active]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[eGain Survey 9]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://www.egain.com/]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[User9@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Case Closure]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Activity Closure]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[UserGroup1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTestCaseForEgain -->
+        <test-method status="PASS" signature="close()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="close" is-config="true" duration-ms="1219" started-at="2020-12-06T21:30:26 IST" finished-at="2020-12-06T21:30:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="open" is-config="true" duration-ms="7310" started-at="2020-12-06T21:30:27 IST" finished-at="2020-12-06T21:30:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="sampleTestCaseForEgain(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="sampleTestCaseForEgain" duration-ms="1447" started-at="2020-12-06T21:30:34 IST" data-provider="testdata" finished-at="2020-12-06T21:30:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Active]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[eGain Survey 10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[https://www.egain.com/]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[User10@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Case Closure]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Activity Closure]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[UserGroup2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTestCaseForEgain -->
+        <test-method status="PASS" signature="close()[pri:0, instance:egain.tests.SurveyTests@17579e0f]" name="close" is-config="true" duration-ms="772" started-at="2020-12-06T21:30:36 IST" finished-at="2020-12-06T21:30:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- egain.tests.SurveyTests -->
+    </test> <!-- egaintest -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="egaintest(failed)">
+    <classes>
+      <class name="egain.tests.SurveyTests">
+        <methods>
+          <include name="sampletest"/>
+          <include name="close"/>
+          <include name="open"/>
+        </methods>
+      </class> <!-- egain.tests.SurveyTests -->
+    </classes>
+  </test> <!-- egaintest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
